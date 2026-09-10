@@ -1,0 +1,6 @@
+{
+  "name": "INSHA COOLER",
+  "description": "INSHA COOLER - Premium Heavy-Duty Desert, Duct, Metal & Commercial Air Coolers. Factory Direct, 100% Copper Motor, Joint-less Tank, Ice Chamber & On-Site Warranty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
